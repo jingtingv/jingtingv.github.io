@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jingtingv.github.io/"/>
-  <updated>2019-09-02T20:45:42.586Z</updated>
+  <updated>2019-09-02T21:03:11.187Z</updated>
   <id>https://jingtingv.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://jingtingv.github.io/uncategorized/In-vitro-derived-germinal-centre-B-cells/"/>
-    <id>https://jingtingv.github.io/uncategorized/In-vitro-derived-germinal-centre-B-cells/</id>
-    <published>2019-09-02T17:35:31.516Z</published>
-    <updated>2019-09-02T20:45:42.586Z</updated>
+    <title>In vitro devried germinal centre B cells</title>
+    <link href="https://jingtingv.github.io/uncategorized/In-vitro-devried-germinal-centre-B-cells/"/>
+    <id>https://jingtingv.github.io/uncategorized/In-vitro-devried-germinal-centre-B-cells/</id>
+    <published>2019-09-02T08:01:31.000Z</published>
+    <updated>2019-09-02T21:03:11.187Z</updated>
     
-    <content type="html"><![CDATA[<p>title: In-vitro derived germinal centre B cells<br>date: 2019-09-02 12:35:31<br>tags:</p><p>![](C:\Users\Jingting Zhang\Pictures\图片1.png)</p><ol><li>Question: How do helper T cells activate B cells?</li></ol><p>![](C:\Users\Jingting Zhang\Pictures\2.png)</p><p>Lakna, (2018, March 26). How Do Helper T Cells Activate B Cells.</p><ol start="2"><li><p>Note:</p><p>In the TD response, the CD40-CD40 ligand (CD40L) interaction is required for Th-mediated B-cell activation and thus for GC formation, and for generation of memory B cell. In addition, IL-21signalling is required for IgG1 production, efficient GC formation, affinity maturation and LLPC formation, but not for memory B cell development in mice. </p><p>IL-4 induced BCR class switching from IgM to IgG1 and IgE, generating discrete populations of IgG1+ and IgE+ cells.</p></li><li><p>Question: How to culture memory T cells <em>in vitro</em>?</p><p>![](C:\Users\Jingting Zhang\Pictures\3.png)Myoungjoo et al. Bio Protoc. 2017</p><ol start="4"><li><p>Note:</p><p>The co-expression of membrane-bound CD40L and BAFF is required for the feeder cells to support optimum proliferation of B cells (culture with IL-4 for 4 days and subsequently culture for 2 more days with IL-21).</p><p>![](C:\Users\Jingting Zhang\Pictures\5.png)</p></li></ol></li><li><p>Question: How to gate in-vitro-induced GC B (iGB) cells?</p><p>B220+Ig+CD138-GL-7+Fas+CD38lowPNA+.</p><p>And also the upregulation of Bcl-6 and Bcl-xL.</p></li><li><p>Question: How to test the function of iMB cells?</p></li></ol><p>(1) Cell cycle test with BrdU (0, 2 and 8 weeks);</p><p>(2) BCR signalling;</p><p>(3) Antibody responses.</p>]]></content>
+    <content type="html"><![CDATA[<p>title: In-vitro derived germinal centre B cells<br>date: 2019-09-02 12:35:31<br>tags:</p><p>![](C:\Users\Jingting Zhang\Pictures\图片1.png)</p><ol><li><h5 id="Question-How-do-helper-T-cells-activate-B-cells"><a href="#Question-How-do-helper-T-cells-activate-B-cells" class="headerlink" title="Question: How do helper T cells activate B cells?"></a>Question: How do helper T cells activate B cells?</h5></li></ol><p>![](C:\Users\Jingting Zhang\Pictures\2.png)</p><p>Lakna, (2018, March 26). How Do Helper T Cells Activate B Cells.</p><ol start="2"><li><h5 id="Note"><a href="#Note" class="headerlink" title="Note:"></a>Note:</h5><p>In the TD response, the CD40-CD40 ligand (CD40L) interaction is required for Th-mediated B-cell activation and thus for GC formation, and for generation of memory B cell. In addition, IL-21signalling is required for IgG1 production, efficient GC formation, affinity maturation and LLPC formation, but not for memory B cell development in mice. </p><p>IL-4 induced BCR class switching from IgM to IgG1 and IgE, generating discrete populations of IgG1+ and IgE+ cells.</p></li><li><h5 id="Question-How-to-culture-memory-T-cells-in-vitro"><a href="#Question-How-to-culture-memory-T-cells-in-vitro" class="headerlink" title="Question: How to culture memory T cells in vitro?"></a>Question: How to culture memory T cells <em>in vitro</em>?</h5><p>![](C:\Users\Jingting Zhang\Pictures\3.png)Myoungjoo et al. Bio Protoc. 2017</p><ol start="4"><li><h5 id="Note-1"><a href="#Note-1" class="headerlink" title="Note:"></a>Note:</h5><p>The co-expression of membrane-bound CD40L and BAFF is required for the feeder cells to support optimum proliferation of B cells (culture with IL-4 for 4 days and subsequently culture for 2 more days with IL-21).</p><p>![](C:\Users\Jingting Zhang\Pictures\5.png)</p></li></ol></li></ol><ol start="5"><li><h5 id="Question-How-to-gate-in-vitro-induced-GC-B-iGB-cells"><a href="#Question-How-to-gate-in-vitro-induced-GC-B-iGB-cells" class="headerlink" title="Question: How to gate in-vitro-induced GC B (iGB) cells?"></a>Question: How to gate in-vitro-induced GC B (iGB) cells?</h5><p>B220+Ig+CD138-GL-7+Fas+CD38lowPNA+.</p><p>And also the upregulation of Bcl-6 and Bcl-xL.</p></li><li><h5 id="Question-How-to-test-the-function-of-iMB-cells"><a href="#Question-How-to-test-the-function-of-iMB-cells" class="headerlink" title="Question: How to test the function of iMB cells?"></a>Question: How to test the function of iMB cells?</h5><p>(1) Cell cycle test with BrdU (0, 2 and 8 weeks);</p><p>(2) BCR signalling;</p><p>(3) Antibody responses.</p></li></ol>]]></content>
     
     <summary type="html">
     
